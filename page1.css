@@ -1,0 +1,36 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    color: rgb(7, 7, 7);
+}
+h2 {
+    text-align: left;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    color: rgb(35, 25, 207);
+}
+h3 {
+    text-align: left;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+    color: rgb(12, 118, 118);
+}
+.btn-group .button {
+  background-color: #751dbd; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  float: left;
+}
+
+.btn-group .button:hover {
+  background-color: #3e8e41;
+}
